@@ -1,0 +1,5 @@
+C:\Users\Vahag\SolutionParser\SolutionParser\SolutionParser\bin\Debug\SolutionParser.dll
+C:\Users\Vahag\SolutionParser\SolutionParser\SolutionParser\bin\Debug\SolutionParser.pdb
+C:\Users\Vahag\SolutionParser\SolutionParser\SolutionParser\obj\Debug\SolutionParser.csprojResolveAssemblyReference.cache
+C:\Users\Vahag\SolutionParser\SolutionParser\SolutionParser\obj\Debug\SolutionParser.dll
+C:\Users\Vahag\SolutionParser\SolutionParser\SolutionParser\obj\Debug\SolutionParser.pdb
